@@ -14,6 +14,7 @@ def converter():
 # Janela principal
 janela = tk.Tk()
 janela.title("Conversor de Moedas")
+janela.geometry("400x300")
 
 tk.Label(janela, text="Valor em USD:").pack()
 entry_valor = tk.Entry(janela)
