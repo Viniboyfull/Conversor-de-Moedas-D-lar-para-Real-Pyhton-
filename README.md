@@ -1,5 +1,7 @@
 Conversor de Moedas de Dólar para Real.
 
+![alt text](image.png)
+
 Instruções:
 
 1- Copiar o Código para o VS Code ou Compilador Pyhton.
